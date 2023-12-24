@@ -1,0 +1,3 @@
+# Discord simple update script
+
+
